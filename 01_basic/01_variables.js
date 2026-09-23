@@ -14,7 +14,7 @@ console.log(account_id);
 
 
 /*
-prefet not to use var
+prefer not to use var
 bcoz of issue in block scope and functional scope
 */
 
